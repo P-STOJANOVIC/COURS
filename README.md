@@ -1,1 +1,2 @@
 # COURS
+Exercises done
